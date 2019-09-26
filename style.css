@@ -1,0 +1,21 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 2em;
+  background-color:#FEFFA9;
+  background-image: url(http://www.transparenttextures.com/patterns/beige-paper.png);
+
+}
+
+#hid {
+  font-family:"Courier", "monospace";
+  width:1080px;
+  margin:0 auto;
+  line-height: 1.6;
+  font-weight:550;
+}
+
+#audioplay{
+  display:none;
+}
